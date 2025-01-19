@@ -1,0 +1,27 @@
+.slick-slide{
+    width: 285px !important;
+   
+}
+
+.slick-slider{
+margin-inline:8vw;
+   
+}
+.slick-track{
+ display: flex !important;
+ gap: 25px !important;
+}
+
+.slick-list [data-index="0"],[data-index="4"]{
+    padding-top: 10px;
+}
+
+
+.slick-list [data-index="1"],[data-index="5"]{
+    width: 200px !important;
+    padding-top: 20px;
+}
+
+.slick-list [data-index="3"],[data-index="7"]{
+    padding-top:20px 
+}
